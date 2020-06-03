@@ -72,7 +72,7 @@ body {
   background-size: cover;
   min-height: 100vh;
   margin: 3rem;
-  font-family: 'Marcellus', serif; }
+  font-family: 'Lora', serif; }
 
 .btn, .btn:link, .btn:visited {
   text-decoration: none;
@@ -481,7 +481,7 @@ header {
     .section-features__heading span {
       color: var(--color-primary); }
   .section-features__sub-heading {
-    font-size: 1.8rem;
+    font-size: 16px;
     font-weight: 600;
     text-align: center;
     color: var(--color-grey-light-3); }
